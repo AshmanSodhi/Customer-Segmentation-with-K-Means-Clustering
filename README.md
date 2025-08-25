@@ -21,4 +21,43 @@ The dataset contains information about 200 mall customers with the following fea
 ## Technologies Used
 Python 3, pandas, numpy, matplotlib, seaborn, scikit-learn
 
+## Key Findings
+### Customer Segments Identified:
+- High Income, High Spending (Cluster 1) :
+  - Target for premium products and luxury services
+  - VIP customer treatment programs
+
+
+High Income, Low Spending (Cluster 2)
+
+Focus on converting potential into actual spending
+Targeted promotions and incentive programs
+
+
+Medium Income, Medium Spending (Cluster 3)
+
+Balanced approach with value-for-money products
+Regular customer engagement programs
+
+
+Low Income, High Spending (Cluster 4)
+
+Budget-friendly premium alternatives
+Credit and financing options
+
+
+Low Income, Low Spending (Cluster 5)
+
+Basic products and services
+Price-sensitive marketing approach
+
+
+
+Demographic Insights:
+
+Gender Distribution: Balanced representation with slight female majority
+Age Distribution: Diverse age groups with concentration in 25-45 age range
+Income vs Spending: Clear correlation patterns identify spending behaviors
+
+
 
