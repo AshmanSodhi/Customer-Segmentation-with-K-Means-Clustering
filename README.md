@@ -27,37 +27,36 @@ Python 3, pandas, numpy, matplotlib, seaborn, scikit-learn
   - Target for premium products and luxury services
   - VIP customer treatment programs
 
+- High Income, Low Spending (Cluster 2)
+  - Focus on converting potential into actual spending
+  - Targeted promotions and incentive programs
 
-High Income, Low Spending (Cluster 2)
+- Medium Income, Medium Spending (Cluster 3)
+  - Balanced approach with value-for-money products
+  - Regular customer engagement programs
 
-Focus on converting potential into actual spending
-Targeted promotions and incentive programs
-
-
-Medium Income, Medium Spending (Cluster 3)
-
-Balanced approach with value-for-money products
-Regular customer engagement programs
-
-
-Low Income, High Spending (Cluster 4)
-
-Budget-friendly premium alternatives
-Credit and financing options
-
-
-Low Income, Low Spending (Cluster 5)
-
-Basic products and services
-Price-sensitive marketing approach
+- Low Income, High Spending (Cluster 4)
+  - Budget-friendly premium alternatives
+  - Credit and financing options
+  
+- Low Income, Low Spending (Cluster 5)
+  - Basic products and services
+  - Price-sensitive marketing approach
 
 
 
-Demographic Insights:
+### Demographic Insights:
+- Gender Distribution
+  - Balanced representation with slight female majority
+- Age Distribution
+  - Diverse age groups with concentration in 25-45 age range
+- Income vs Spending
+  - Clear correlation patterns identify spending behaviors
+ 
 
-Gender Distribution: Balanced representation with slight female majority
-Age Distribution: Diverse age groups with concentration in 25-45 age range
-Income vs Spending: Clear correlation patterns identify spending behaviors
+## Dataset Source :
+[Mall Customers](https://absentdata.com/wp-content/uploads/2023/03/Mall_Customers.csv)
+
 
 
 
